@@ -1,4 +1,5 @@
 # JAVA
+bin/
 .mtj.tmp/
 *.class
 *.jar
